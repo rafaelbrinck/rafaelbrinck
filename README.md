@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=5d822e&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Rafael+Brinckmann+Vasconcellos;Desenvolvedor+de+Software;Sou+de+Porto+Alegre,+RS;Estudo+Análise+e+Desenvolvimento+de+Sistemas;Na+Faculdade+UniSenac" />
 </div>
 
+---
+
 <div align="center">
 
 ## 🚀 Tecnologias que domino

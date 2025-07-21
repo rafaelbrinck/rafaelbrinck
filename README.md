@@ -90,7 +90,7 @@
 <a href="https://www.linkedin.com/in/rafaelbrinckmann/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-5d822e?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://controle-financeiro-angular.vercel.app/" target="_blank">
+<a href="https://rafaelbrinckmann.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/-Portfólio-5d822e?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="mailto:devrafabrinckmann@gmail.com">
